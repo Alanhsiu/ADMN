@@ -9,4 +9,3 @@ Old_Files
 **/log*/
 *.pickle
 **/test_datasets/
-*.png
